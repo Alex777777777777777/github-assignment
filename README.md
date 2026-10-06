@@ -65,7 +65,7 @@ People who have completed this assignment, in alphabetical order of last name.
 To add yourself, copy this line into the table below, in the right place alphabetically, and replace every `LastName`, `FirstName`, `husky.id` and `githubid` (the GitHub username appears four times):
 
 ```
-LastName  | FirstName  | husky.id   | [githubid](https://github.com/githubid) | ![githubid](https://github.com/githubid.png?size=40)
+Fernandez  | Alex  | 002220158   | [[githubid](https://github.com/githubid)](https://github.com/Alex777777777777777/github-assignment.git) | ![githubid](https://github.com/githubid.png?size=40)
 ```
 
 Last Name | First Name | husky id   | github id | avatar
